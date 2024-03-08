@@ -1,0 +1,12 @@
+.card-container > * {
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.689);
+}
+
+*{
+    background-color: "#ebdff5";
+    background-image: "../../assets/profile/jobseekerback.png";
+}
+.myCard:hover {
+    cursor:pointer;
+}
